@@ -144,7 +144,7 @@ html{
     right: 3%;
     width: 60px;
     height: 60px;
-    background: url('main assets/Hamburger\ Menu.png');
+    background: url('./Hamburger\ Menu.png');
     background-repeat: no-repeat;
     background-size: 28px;
     background-position: center;
@@ -159,7 +159,7 @@ html{
 }
 
 .menu-toggle.active{
-    background: url('main assets/Close\ Icon.png');
+    background: url('./Close\ Icon.png');
     background-repeat: no-repeat;
     background-size: 35px;
     background-position: center;
@@ -428,7 +428,7 @@ html{
     top: 40px;
     height: 100vh;
     width: 100vw;
-    background:url('main assets/carousel\ -bg.png');
+    background:url('./carousel\ -bg.png');
     background-size: cover;
     background-position: 1000px;
     overflow-x: hidden;
@@ -929,7 +929,7 @@ html{
     left: 2.6%;
     width: 44%;
     height: 90%;
-    background-image: url('main assets/Roadside\ -\ contact.jpg');
+    background-image: url('./Roadside\ -\ contact.jpg');
     background-size: 100% 100%;
     box-shadow: 0 0 10px 0 rgba(0,0,0,0.45) inset;
     animation: change 19s linear infinite alternate-reverse;
@@ -938,16 +938,16 @@ html{
 
 @keyframes change{
     0%,100%{
-        background-image: url('main assets/Trekking\ -\ Contact\ us.jpg');
+        background-image: url('./Trekking\ -\ Contact\ us.jpg');
     }
     25%{
-        background-image: url('main assets/Kasar\ Devi\ -Grid.jpg');
+        background-image: url('./Kasar\ Devi\ -Grid.jpg');
     }
     50%{
-        background-image: url('main assets/Innocent\ little\ girl-\ contact\ us.jpg');
+        background-image: url('./Innocent\ little\ girl-\ contact\ us.jpg');
     }
     75%{
-        background-image: url('main assets/Rishikesh\ -\ contact\ us.jpg');
+        background-image: url('./Rishikesh\ -\ contact\ us.jpg');
     }
 }
 
