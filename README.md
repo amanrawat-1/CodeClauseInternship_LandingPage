@@ -5,5 +5,5 @@
 # Got stuck in between countless times. Youtube, Google, GPT helped me out there!!!
 # However, this is not responsive yet, But surely I'll make it in coming days.
 
-# Keep Learning 
-# Road to Fullstack
+# Keep Learning!
+# Road to Fullstack!!
