@@ -341,21 +341,19 @@ html{
 
 .video3{
     position: absolute;
-    top: 2%;
-    left: 2%;
+    margin: 18px 30px;
     width: 95%;
     height: 90%;
     object-fit: cover;
-    overflow: hidden;
 }
 
 .about-2 {
     color: white;
     position: relative;
-    width: 40%;
-    padding: 20px;
-    top: 50%;
-    left: 5%;
+    width: 35%;
+    margin-top: 320px;
+    margin-left: 90px;
+    z-index: 111;
 }
 
 .about-2 h1{
@@ -365,16 +363,13 @@ html{
 
 .about-2 p{
     font-size: 1.7rem;
-    position: relative;
 }
 
 .round-btn{
-    position: absolute;
-    top: 35%;
-    left: 46%;
     height: 12%;
-    width: 5%;
+    width: 6%;
     transition: 0.4s ease;
+    margin-left: 8px ;
 }
 
 .round-btn:hover{
@@ -544,8 +539,7 @@ html{
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
     text-transform: uppercase;
-    margin-top: 50px;
-    margin-left: 25px;
+    margin: 50px 30px;
     font-size: 3.5rem;
     color: #ffffff;
     letter-spacing: 5px;
@@ -553,8 +547,8 @@ html{
 
 .outer-container{
     position: relative;
-    max-width: 47.5%;
-    height: 365px;
+    width: 50%;
+    height: 59.5%;
     z-index: 111;
     margin: 45px auto;
     background-color: white;
@@ -564,11 +558,9 @@ html{
 
 .slider-wrapper {
     position: absolute;
-    top: 4.6%;
-    left: 2.6%;
     border-radius: 10px;
-    max-width: 95%;
-    margin: 0 auto;
+    width: 95%;
+    margin: 18px 18px;
 }
 
 .slider{
